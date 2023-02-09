@@ -1,7 +1,8 @@
-<h1> 
-  hey there
+<div id="intro" align="center"> <h1> 
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+ </div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,9 +15,8 @@
 </div>
 
 
-Self Driven, Tech Enthusiast
+Self Driven, Tech Enthusiast.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java Script, Phyton 
 - 📫 How to reach me: drayhan66@gmail.com 
@@ -29,8 +29,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberlument)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberlument&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cyberlument)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Cyberlument)  
 
