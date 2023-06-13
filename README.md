@@ -26,7 +26,6 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberlument&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Cyberlument)  
 
