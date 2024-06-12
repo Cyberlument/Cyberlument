@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<div align="center">
 
 My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Learner.
 
@@ -22,7 +23,13 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 - 📫 How to reach me: drayhan66@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cyberlument)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-daffarialdy-hadian-203936196//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_rayhandaffa_/)  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cyberlument) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-daffarialdy-hadian-203936196//) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_rayhandaffa_/) 
+
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
@@ -31,3 +38,4 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Cyberlument)  
 
+</div>
