@@ -29,6 +29,12 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-daffarialdy-hadian-203936196//) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_rayhandaffa_/) 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mysql," /><br>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
