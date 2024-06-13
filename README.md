@@ -19,7 +19,7 @@
 My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Learner.
 
 
-- 🌱 I’m currently learning Golang, Java Script, Phyton 
+- 🌱 I’m currently learning Golang, Java Script, Phyton, Docker, DevOps Engineering, IoT Engineering.
 - 📫 How to reach me: drayhan66@gmail.com 
 
 
