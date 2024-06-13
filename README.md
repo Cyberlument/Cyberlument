@@ -22,12 +22,10 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 - 🌱 I’m currently learning Golang, Java Script, Phyton, Docker, DevOps Engineering, IoT Engineering.
 - 📫 How to reach me: drayhan66@gmail.com 
 
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cyberlument) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-daffarialdy-hadian-203936196//) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_rayhandaffa_/) 
+</div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
