@@ -30,8 +30,8 @@ My Name is Rayhan Daffarialdy Hadian, i am Self Driven, Tech Enthusiast and a Le
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
